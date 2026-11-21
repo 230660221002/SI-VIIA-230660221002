@@ -56,8 +56,6 @@ flutter run -d chrome
 
 ### Hasil Pengujian
 
-Isi dengan keluaran `flutter test` dan `flutter analyze` yang benar-benar dijalankan:
-
 - `flutter test`: seluruh tes validasi lulus pada Chrome (Windows), termasuk kasus gagal dan lolos untuk keenam validator.
 - `flutter analyze`: "No issues found"
 
